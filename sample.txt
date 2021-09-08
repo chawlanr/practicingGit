@@ -1,4 +1,5 @@
-I'm practicing GIT Commands. 
+I'm practicing GIT commands. 
 So I'm creating this practice file.
 
+Adding another line in this file.  It is forth line of the file.
 
