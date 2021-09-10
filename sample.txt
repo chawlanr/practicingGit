@@ -1,4 +1,4 @@
-I'm practicing GIT commands. 
+I'm practicing GIT commands on Local and Browser too. 
 So I'm creating this practice file.
 
 Adding another line in this file.  It is forth line of the file.
